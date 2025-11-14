@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\main.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\main.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/main.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/main.cpp.obj"
+}
+]

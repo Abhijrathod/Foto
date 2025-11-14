@@ -1,0 +1,3 @@
+C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir
+C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/edit_cache.dir
+C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/rebuild_cache.dir
