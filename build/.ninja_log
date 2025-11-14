@@ -1,3 +1,7 @@
 # ninja log v6
-6	293	7848555019615317	CMakeFiles/PhotoEditor.dir/src/main.cpp.obj	b403171d4963498e
-3	167	7848555785574800	PhotoEditor.exe	209c7ad612ee0dc5
+11	51	7848571941422277	CMakeFiles/PhotoEditor.dir/src/UI/Canvas/CanvasView.cpp.obj	e9b7fa5f33fba0f4
+13	311	7848571941442278	CMakeFiles/PhotoEditor.dir/src/UI/Windows/ToolbarLeft.cpp.obj	b1fe790ce9a38a33
+14	301	7848571941462289	CMakeFiles/PhotoEditor.dir/src/UI/Windows/RightPanels.cpp.obj	f60a64b8833e63ed
+10	514	7848572808456511	CMakeFiles/PhotoEditor.dir/src/UI/Windows/MainWindow.cpp.obj	a93c6bbcce26baf5
+7	266	7848572808436491	CMakeFiles/PhotoEditor.dir/src/main.cpp.obj	b403171d4963498e
+4	184	7848573766873069	PhotoEditor.exe	4ecf9ab58bb3f809
