@@ -1,6 +1,10 @@
 #pragma once
 #include <windows.h>
 
+#define ID_FILE_OPEN 10001
+
+class LayerPanel;
+
 class MainWindow {
 public:
     MainWindow(HINSTANCE hInstance);
@@ -17,4 +21,5 @@ private:
     HWND hwnd_ = nullptr;
     int width_ = 1280;
     int height_ = 800;
+    LayerPanel* layerPanel_ = nullptr;
 };

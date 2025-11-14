@@ -1,38 +1,200 @@
 [
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\main.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\main.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\main.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\main.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/main.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/main.cpp.obj"
 },
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\MainWindow.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\MainWindow.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\MainWindow.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\MainWindow.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Windows/MainWindow.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Windows/MainWindow.cpp.obj"
 },
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\ToolbarLeft.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\ToolbarLeft.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\ToolbarLeft.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\ToolbarLeft.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Windows/ToolbarLeft.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Windows/ToolbarLeft.cpp.obj"
 },
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\RightPanels.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\RightPanels.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\RightPanels.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\RightPanels.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Windows/RightPanels.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Windows/RightPanels.cpp.obj"
 },
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Canvas\\CanvasView.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas\\CanvasView.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Windows\\LayerPanel.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows\\LayerPanel.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Windows/LayerPanel.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Windows/LayerPanel.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Canvas\\CanvasView.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas\\CanvasView.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Canvas/CanvasView.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Canvas/CanvasView.cpp.obj"
 },
 {
   "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
-  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Canvas\\DXCanvas.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas\\DXCanvas.cpp",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\UI\\Canvas\\DXCanvas.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas\\DXCanvas.cpp",
   "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/UI/Canvas/DXCanvas.cpp",
   "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/UI/Canvas/DXCanvas.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Tools\\ToolBase.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools\\ToolBase.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Tools/ToolBase.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Tools/ToolBase.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Tools\\BrushTool.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools\\BrushTool.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Tools/BrushTool.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Tools/BrushTool.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Filters\\FilterBase.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Filters\\FilterBase.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Filters/FilterBase.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Filters/FilterBase.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Engine\\ImageEngine.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Engine\\ImageEngine.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Engine/ImageEngine.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Engine/ImageEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Engine\\LayerManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Engine\\LayerManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Engine/LayerManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Engine/LayerManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Engine\\HistoryManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Engine\\HistoryManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Engine/HistoryManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Engine/HistoryManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Engine\\ColorEngine.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Engine\\ColorEngine.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Engine/ColorEngine.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Engine/ColorEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Engine\\FilterEngine.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Engine\\FilterEngine.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Engine/FilterEngine.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Engine/FilterEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Math\\Vector2D.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Math\\Vector2D.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Math/Vector2D.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Math/Vector2D.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Math\\Matrix.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Math\\Matrix.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Math/Matrix.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Math/Matrix.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Math\\ColorSpace.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Math\\ColorSpace.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Math/ColorSpace.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Math/ColorSpace.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Memory\\MemoryPool.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Memory\\MemoryPool.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Memory/MemoryPool.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Memory/MemoryPool.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Memory\\BufferManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Memory\\BufferManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Memory/BufferManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Memory/BufferManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Memory\\TileCache.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Memory\\TileCache.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Memory/TileCache.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Memory/TileCache.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Rendering\\Renderer.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Rendering\\Renderer.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Rendering/Renderer.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Rendering/Renderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Rendering\\GPURenderer.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Rendering\\GPURenderer.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Rendering/GPURenderer.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Rendering/GPURenderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Rendering\\CPURenderer.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Rendering\\CPURenderer.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Rendering/CPURenderer.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Rendering/CPURenderer.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\Rendering\\ViewportManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\Rendering\\ViewportManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/Rendering/ViewportManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/Rendering/ViewportManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\FileIO\\ImageCodecs.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\FileIO\\ImageCodecs.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/FileIO/ImageCodecs.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/FileIO/ImageCodecs.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\FileIO\\FileManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\FileIO\\FileManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/FileIO/FileManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/FileIO/FileManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\FileIO\\ExportManager.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\FileIO\\ExportManager.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/FileIO/ExportManager.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/FileIO/ExportManager.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Core\\FileIO\\PSDFormat.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Core\\FileIO\\PSDFormat.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Core/FileIO/PSDFormat.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Core/FileIO/PSDFormat.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Utils\\Logger.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Utils\\Logger.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Utils/Logger.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Utils/Logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Utils\\Config.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Utils\\Config.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Utils/Config.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Utils/Config.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Utils\\Threading.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Utils\\Threading.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Utils/Threading.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Utils/Threading.cpp.obj"
+},
+{
+  "directory": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx64\\x64\\cl.exe  /nologo /TP -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Canvas -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\UI\\Windows -IC:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Tools /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd /FoCMakeFiles\\PhotoEditor.dir\\src\\Utils\\Profiler.cpp.obj /FdCMakeFiles\\PhotoEditor.dir\\ /FS -c C:\\Users\\Abhijit\\repos\\pfoto\\PhotoEditor\\src\\Utils\\Profiler.cpp",
+  "file": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/src/Utils/Profiler.cpp",
+  "output": "C:/Users/Abhijit/repos/pfoto/PhotoEditor/build/CMakeFiles/PhotoEditor.dir/src/Utils/Profiler.cpp.obj"
 }
 ]

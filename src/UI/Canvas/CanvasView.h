@@ -1,34 +1,19 @@
-
-// File: src/UI/Canvas/CanvasView.h
 #pragma once
 #include <windows.h>
 
-LRESULT CALLBACK CanvasWndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam);
+// Forward declarations
+class DXCanvas;
+class BrushTool;
 
-// File: src/UI/Canvas/CanvasView.cpp
-#include "CanvasView.h"
-#include <string>
+HWND CreateCanvasWindow(HWND parent, HINSTANCE hInst, int id);
+LRESULT CALLBACK CanvasViewProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam);
 
-LRESULT CALLBACK CanvasWndProc(HWND hwnd, UINT msg, WPARAM wParam, LPARAM lParam) {
-    switch (msg) {
-    case WM_PAINT: {
-        PAINTSTRUCT ps; HDC hdc = BeginPaint(hwnd, &ps);
-        RECT r; GetClientRect(hwnd, &r);
-        HBRUSH brush = CreateSolidBrush(RGB(43, 43, 43));
-        FillRect(hdc, &r, brush);
-        DeleteObject(brush);
-        EndPaint(hwnd, &ps);
-        return 0;
-    }
-    case WM_LBUTTONDOWN:
-    case WM_MOUSEMOVE:
-    case WM_LBUTTONUP:
-        // future: handle drawing
-        return 0;
-    }
-    return DefWindowProc(hwnd, msg, wParam, lParam);
-}
-
-
-
-
+struct CanvasUserData {
+    DXCanvas* dxptr = nullptr;
+    BrushTool* toolptr = nullptr;
+    bool panning = false;
+    int panStartX = 0;
+    int panStartY = 0;
+    float panStartPanX = 0.0f;
+    float panStartPanY = 0.0f;
+};
