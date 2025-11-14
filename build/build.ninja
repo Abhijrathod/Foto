@@ -52,6 +52,7 @@ build cmake_object_order_depends_target_PhotoEditor: phony || .
 build CMakeFiles\PhotoEditor.dir\src\main.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\main.cpp || cmake_object_order_depends_target_PhotoEditor
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
   OBJECT_DIR = CMakeFiles\PhotoEditor.dir
   OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src
   TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
@@ -61,17 +62,9 @@ build CMakeFiles\PhotoEditor.dir\src\main.cpp.obj: CXX_COMPILER__PhotoEditor_uns
 build CMakeFiles\PhotoEditor.dir\src\UI\Windows\MainWindow.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows\MainWindow.cpp || cmake_object_order_depends_target_PhotoEditor
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
   OBJECT_DIR = CMakeFiles\PhotoEditor.dir
   OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Windows
-  TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
-  TARGET_PDB = PhotoEditor.pdb
-  TARGET_SUPPORT_DIR = CMakeFiles\PhotoEditor.dir
-
-build CMakeFiles\PhotoEditor.dir\src\UI\Canvas\CanvasView.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas\CanvasView.cpp || cmake_object_order_depends_target_PhotoEditor
-  CONFIG = Debug
-  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
-  OBJECT_DIR = CMakeFiles\PhotoEditor.dir
-  OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Canvas
   TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
   TARGET_PDB = PhotoEditor.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\PhotoEditor.dir
@@ -79,6 +72,7 @@ build CMakeFiles\PhotoEditor.dir\src\UI\Canvas\CanvasView.cpp.obj: CXX_COMPILER_
 build CMakeFiles\PhotoEditor.dir\src\UI\Windows\ToolbarLeft.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows\ToolbarLeft.cpp || cmake_object_order_depends_target_PhotoEditor
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
   OBJECT_DIR = CMakeFiles\PhotoEditor.dir
   OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Windows
   TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
@@ -88,8 +82,29 @@ build CMakeFiles\PhotoEditor.dir\src\UI\Windows\ToolbarLeft.cpp.obj: CXX_COMPILE
 build CMakeFiles\PhotoEditor.dir\src\UI\Windows\RightPanels.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows\RightPanels.cpp || cmake_object_order_depends_target_PhotoEditor
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
   OBJECT_DIR = CMakeFiles\PhotoEditor.dir
   OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Windows
+  TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
+  TARGET_PDB = PhotoEditor.pdb
+  TARGET_SUPPORT_DIR = CMakeFiles\PhotoEditor.dir
+
+build CMakeFiles\PhotoEditor.dir\src\UI\Canvas\CanvasView.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas\CanvasView.cpp || cmake_object_order_depends_target_PhotoEditor
+  CONFIG = Debug
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
+  OBJECT_DIR = CMakeFiles\PhotoEditor.dir
+  OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Canvas
+  TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
+  TARGET_PDB = PhotoEditor.pdb
+  TARGET_SUPPORT_DIR = CMakeFiles\PhotoEditor.dir
+
+build CMakeFiles\PhotoEditor.dir\src\UI\Canvas\DXCanvas.cpp.obj: CXX_COMPILER__PhotoEditor_unscanned_Debug C$:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas\DXCanvas.cpp || cmake_object_order_depends_target_PhotoEditor
+  CONFIG = Debug
+  FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -std:c++20 -MDd
+  INCLUDES = -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Canvas -IC:\Users\Abhijit\repos\pfoto\PhotoEditor\src\UI\Windows
+  OBJECT_DIR = CMakeFiles\PhotoEditor.dir
+  OBJECT_FILE_DIR = CMakeFiles\PhotoEditor.dir\src\UI\Canvas
   TARGET_COMPILE_PDB = CMakeFiles\PhotoEditor.dir\
   TARGET_PDB = PhotoEditor.pdb
   TARGET_SUPPORT_DIR = CMakeFiles\PhotoEditor.dir
@@ -102,11 +117,11 @@ build CMakeFiles\PhotoEditor.dir\src\UI\Windows\RightPanels.cpp.obj: CXX_COMPILE
 #############################################
 # Link the executable PhotoEditor.exe
 
-build PhotoEditor.exe: CXX_EXECUTABLE_LINKER__PhotoEditor_Debug CMakeFiles\PhotoEditor.dir\src\main.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\MainWindow.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Canvas\CanvasView.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\ToolbarLeft.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\RightPanels.cpp.obj
+build PhotoEditor.exe: CXX_EXECUTABLE_LINKER__PhotoEditor_Debug CMakeFiles\PhotoEditor.dir\src\main.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\MainWindow.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\ToolbarLeft.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Windows\RightPanels.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Canvas\CanvasView.cpp.obj CMakeFiles\PhotoEditor.dir\src\UI\Canvas\DXCanvas.cpp.obj
   CONFIG = Debug
   FLAGS = /DWIN32 /D_WINDOWS /EHsc /Zi /Ob0 /Od /RTC1 -MDd
   LINK_FLAGS = /machine:x64 /debug /INCREMENTAL /subsystem:windows
-  LINK_LIBRARIES = comctl32.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
+  LINK_LIBRARIES = comctl32.lib  d3d11.lib  dxgi.lib  kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib
   OBJECT_DIR = CMakeFiles\PhotoEditor.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
