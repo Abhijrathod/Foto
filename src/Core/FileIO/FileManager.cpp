@@ -1,6 +1,7 @@
 #define NOMINMAX
 #include "FileManager.h"
 #include "ImageCodecs.h"
+#include "PSDFormat.h"
 #include "../Engine/ImageEngine.h"
 #include <cstring>
 #include <algorithm>
@@ -20,17 +21,33 @@ bool FileManager::LoadImage(const std::string& filepath, BufferManager::Buffer& 
 }
 
 bool FileManager::SaveImage(const std::string& filepath, const BufferManager::Buffer& buffer) {
-    // TODO: Implement image saving
-    return false;
+    if (!buffer.data || buffer.width == 0 || buffer.height == 0) {
+        return false;
+    }
+
+    // Convert to wide string for WIC
+    std::wstring wpath(filepath.begin(), filepath.end());
+
+    ImageData img;
+    img.width = buffer.width;
+    img.height = buffer.height;
+    img.pixels.assign(buffer.data, buffer.data + buffer.size);
+    img.valid = true;
+
+    return ImageCodecs::SaveImage(wpath.c_str(), img);
 }
 
 bool FileManager::LoadPSD(const std::string& filepath, ImageEngine* engine) {
-    // TODO: Implement PSD loading
-    return false;
+    if (!engine) {
+        return false;
+    }
+    return PSDFormat::Load(filepath, engine);
 }
 
 bool FileManager::SavePSD(const std::string& filepath, ImageEngine* engine) {
-    // TODO: Implement PSD saving
-    return false;
+    if (!engine) {
+        return false;
+    }
+    return PSDFormat::Save(filepath, engine);
 }
 
