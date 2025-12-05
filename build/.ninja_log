@@ -5,7 +5,7 @@
 14	311	7848600096409516	CMakeFiles/PhotoEditor.dir/src/UI/Windows/RightPanels.cpp.obj	a0a408adb2b9138
 11	715	7848675568245667	CMakeFiles/PhotoEditor.dir/src/UI/Windows/MainWindow.cpp.obj	75ece3497b8686be
 6	1150	7848662711298532	CMakeFiles/PhotoEditor.dir/src/main.cpp.obj	38714613d8b26ca8
-715	910	7848675575284189	PhotoEditor.exe	ea283b106b63aba6
+10	167	7848675815589922	PhotoEditor.exe	ea283b106b63aba6
 17	865	7848674543790301	CMakeFiles/PhotoEditor.dir/src/Tools/BrushTool.cpp.obj	dbc73a28b2cb79b
 20	781	7848673111052779	CMakeFiles/PhotoEditor.dir/src/Utils/Threading.cpp.obj	d02ab68eb1f53d2a
 14	584	7848673110971197	CMakeFiles/PhotoEditor.dir/src/Core/FileIO/ImageCodecs.cpp.obj	ebc55814e16863af
@@ -33,4 +33,3 @@
 44	1069	7848672435477648	CMakeFiles/PhotoEditor.dir/src/Utils/Config.cpp.obj	d55348402872437d
 41	1478	7848672435441014	CMakeFiles/PhotoEditor.dir/src/Utils/Logger.cpp.obj	8b3b1bce57b23bed
 49	1506	7848672435519121	CMakeFiles/PhotoEditor.dir/src/Utils/Profiler.cpp.obj	4bc2df914e431610
-10	167	7848675815589922	PhotoEditor.exe	ea283b106b63aba6
